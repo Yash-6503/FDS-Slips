@@ -1,10 +1,10 @@
-﻿name,salary,age,country,purchased
-yash,100000,21,,
-harsh ,50000,22,,
-vinay,40000,,,
-sunil,45000,43,,
-manish,30000,26,,
-raj,15000,32,,
-vivek,,31,,
-tanmay,65000,30,,
-vijay,70000,25,,
+name,salary,age,purchased,country
+yash,100000,21,yes,india
+harsh ,50000,22,no,india
+vinay,40000,,yes,nepal
+sunil,45000,43,yes,null
+manish,30000,26,no,
+raj,15000,32,no,india
+vivek,,31,yes,bhutan
+tanmay,65000,30,no,nepal
+vijay,70000,25,yes,india
